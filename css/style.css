@@ -3,7 +3,7 @@
     src: url(fonts/PlusJakartaSans-Bold.ttf);
 }
 html {
-    background: linear-gradient(#403D3D, #232222);
+    background-color: linear-gradient(#403D3D, #232222);
 }
 h1 {
     font-family: 'Plus Jakarta Sans', 'Sans-Serif';
