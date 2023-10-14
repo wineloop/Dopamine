@@ -3,10 +3,10 @@
     src: url(fonts/PlusJakartaSans-Bold.ttf);
 }
 h1 {
-    font-family: 'Plus Jakarta Sans', 'Serif';
+    font-family: 'Plus Jakarta Sans', '';
     font-size: 50px;
     font-weight: bold;
-    color: white;
+    color: #232222;
 }
 
 p {
@@ -15,7 +15,6 @@ p {
     
 }
 body {
-    background-image: url('Group 163.png');
     text-align: center;
     margin-top: 100px;
     margin-bottom: 4vh;
