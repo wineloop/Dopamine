@@ -3,7 +3,7 @@
     src: url(fonts/PlusJakartaSans-Bold.ttf);
 }
 h1 {
-    font-family: 'Plus Jakarta Sans', 'Courier New';
+    font-family: 'Plus Jakarta Sans', 'Serif';
     font-size: 50px;
     font-weight: bold;
     color: white;
@@ -15,7 +15,7 @@ p {
     
 }
 body {
-    background-image: linear-gradient(180deg,#403D3D, #232222);
+    background-image: url('Group 163.png');
     text-align: center;
     margin-top: 100px;
     margin-bottom: 4vh;
